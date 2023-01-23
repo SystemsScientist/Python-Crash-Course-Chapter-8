@@ -5,11 +5,11 @@
 # are learning about in this chapter. Call the function,
 # and make sure the message displays correctly.
 
-def display_message(topic):
+def display_message():
     """display message"""
-    print("I am learning about " + topic + " in this chapter.")
+    print("I am learning about functions in this chapter.")
 
-display_message('functions')
+display_message()
 
 
 

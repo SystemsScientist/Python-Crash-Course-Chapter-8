@@ -10,6 +10,7 @@
 def make_album(artist_name, album_title):
     album = {'artist': artist_name.title(), 'album': album_title.title()}
     return album
+
 while True:
     print("\nPlease enter your favorite Artist name and Album title: ")
     print("(enter 'q' at any time to quit)")

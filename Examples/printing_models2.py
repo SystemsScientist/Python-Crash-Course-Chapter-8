@@ -22,8 +22,8 @@ def show_completed_models(completed_models):
 unprinted_designs = ['iphone case', 'robot pendant', 'dodecahedron']
 completed_models = []
 
-print_models(unprinted_designs, completed_models)
-show_completed_models(completed_models)
+print_models(unprinted_designs, completed_models)   # call the first function
+show_completed_models(completed_models)             # call the second function
 
 
 

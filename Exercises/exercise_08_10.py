@@ -8,13 +8,6 @@
 # has actually been modified.
 
 
-def show_magicians(great_magicians):
-    """print list of great magicians"""
-    print("\nList of Great Magicians: ")
-    for great_magician in great_magicians:
-        print("\t" + great_magician)
-
-
 def make_great(magicians, great_magicians):
     """print list of magicians"""
     print("\nList of Magicians: ")
@@ -22,6 +15,13 @@ def make_great(magicians, great_magicians):
         current_magician = magicians.pop()
         print("\t" + current_magician.title())
         great_magicians.append("the Great " + current_magician.title())
+
+
+def show_magicians(great_magicians):
+    """print list of great magicians"""
+    print("\nList of Great Magicians: ")
+    for great_magician in great_magicians:
+        print("\t" + great_magician)
 
 
 magicians = ['harry anderson', 'penn and teller',

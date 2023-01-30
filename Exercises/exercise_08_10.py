@@ -7,7 +7,6 @@
 # name. Call show_magicians() to see that the list
 # has actually been modified.
 
-
 def make_great(magicians, great_magicians):
     """print list of magicians"""
     print("\nList of Magicians: ")

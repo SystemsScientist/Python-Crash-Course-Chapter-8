@@ -1,20 +1,10 @@
 # arithmetic.py, Chapter 8, Python Crash Course
 # program computes two numbers
 
-def add(num1, num2):
-    return num1 + num2
-
-
-def subtract(num1, num2):
-    return num1 - num2
-
-
-def multiply(num1, num2):
-    return num1 * num2
-
-
-def divide(num1, num2):
-    return num1 / num2
+from add import add
+from subtract import subtract
+from multiply import multiply
+from divide import divide
 
 
 def compute(num1, num2):
@@ -32,8 +22,10 @@ def compute(num1, num2):
     divide_two_numbers = divide(num1, num2)
     print("num1 / num2 = " + str(divide_two_numbers) + "\n")
 
+
 compute(5, 5)
 compute(6, 6)
+compute(10, 5)
 
 
 

@@ -2,15 +2,8 @@
 # program computes the absolute number and the
 # square of a number
 
-def compute_absolute_number(num):
-    if num < 0:
-        num = num * -1;
-
-    return num;
-
-
-def compute_square_number(num):
-    return num * num
+from absolute_number import compute_absolute_number
+from square_number import compute_square_number
 
 
 def compute(num):
@@ -21,6 +14,7 @@ def compute(num):
 
     square_num = compute_square_number(num)
     print("The square number of num is: " + str(square_num) +"\n")
+
 
 compute(-4)
 compute(-9.17)

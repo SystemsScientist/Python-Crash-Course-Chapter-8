@@ -1,9 +1,9 @@
 # Python Crash Course - Chapter 8 Exercises and Solutions
 
-This repository contains the Examples, Exercises, and Solutions for Chapter 7
-of Python Crash Course by Eric Matthes, which covers functions.
+This repository contains the Examples, Exercises, and Solutions 
+for Chapter 8 of Python Crash Course by Eric Matthes, which covers functions.
 
-See the following link for this textbook: <a href="https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036?ref_=ast_sto_dp" target="_blank" title="Python Programming">Python Crash Course</a>
+See the following link for this textbook: <a href="https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036?ref_=ast_sto_dp" target="_blank" title="Python Programming"> Python Crash Course</a>
 
 <p align="center">
     <img src="https://learntocodetogether.com/wp-content/uploads/2019/11/download-8.jpeg" alt="Python Crash Course" title="Python Crash Course">
@@ -25,16 +25,16 @@ your consumption and edification.
 Technical Notes and Considerations
 -----------------------------------------------------------------------------
 
-To compile and execute the Chapter 7 files,
+To compile and execute the Chapter 8 files,
 
     (1) click on the blue "Code" button above and click the
         "Download Zip" link, or
     (2) copy the code and paste it directly into your preferred
         Integrated Development Environment (IDE), PyCharm, Sublime,
         or Visual Studio Code, for example, or your preferred text
-        editor, Vim, Nano, or Emacs, for example,
-    (3) and either build and run the files in your IDE
-    (4) or use the following command-line script:
+        editor, Vim, Nano, or Emacs, for example, and either
+    (3) build and run the files in your IDE, or
+    (4) use the following command-line script:
 
             $ python3 name_of_file.py 
 

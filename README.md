@@ -5,6 +5,12 @@ of Python Crash Course by Eric Matthes, which covers functions.
 
 See the following link for this textbook: <a href="https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036?ref_=ast_sto_dp" target="_blank" title="Python Programming">Python Crash Course</a>
 
+<p align="center">
+    <img src="https://learntocodetogether.com/wp-content/uploads/2019/11/download-8.jpeg" alt="Python Crash Course" title="Python Crash Course">
+</p>
+
+<i>Please note, this repository is currently a work in progress and will be updated over time.</i>
+
 In this repository, I incorporated Vim text editor along with Git and GitHub
 into my workflow. I also used the Fedora 37 system in a VirtualBox environment
 to create, use, and manage directories and files as I worked through the 
